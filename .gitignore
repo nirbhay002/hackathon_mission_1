@@ -1,0 +1,17 @@
+# --- Python ---
+# Ignore the virtual environment folder, which stores installed packages.
+# This folder is specific to your machine and can be recreated from requirements.txt.
+venv/
+
+# Ignore Python's cache files.
+__pycache__/
+
+# --- Secrets ---
+# CRITICAL: Ignore the environment file containing your secret API key.
+# This prevents you from ever accidentally uploading your credentials to GitHub.
+.env
+
+# --- IDE/Editor Specific ---
+# Ignore configuration folders created by common code editors like VS Code or JetBrains IDEs.
+.vscode/
+.idea/
