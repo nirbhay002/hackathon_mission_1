@@ -33,7 +33,7 @@ Follow these steps to get the project running.
 Clone the project from your GitHub repository.
 
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone [https://github.com/nirbhay002/hackathon_mission_1.git](https://github.com/nirbhay002/hackathon_mission_1.git)
 cd your-repo-name
 ```
 
