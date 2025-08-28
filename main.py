@@ -1,4 +1,6 @@
-# main.py
+# Please refer to README.md file to know how to run this code. Must read "Setup & Installation" section and "How to Run" section
+# input file being used is input.json and output is being saved in report.md file.
+
 import os
 import json
 import argparse
